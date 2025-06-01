@@ -1,0 +1,27 @@
+{
+    "name": "dadansatria/simplefilter",
+    "description": "Simple filter for Laravel Eloquent",
+    "keywords": [
+        "laravel",
+        "filter",
+        "query",
+        "mysql"
+    ],
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Dadansatria\\Permission\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Dadan Satria Nugraha",
+            "email": "dadansatria7@gmail.id"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": "^8.3"
+    },
+    "require-dev": {}
+}
