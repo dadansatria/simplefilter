@@ -10,7 +10,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Dadansatria\\Traits\\": "src/"
+            "Dadansatria\\": "src/"
         }
     },
     "authors": [
